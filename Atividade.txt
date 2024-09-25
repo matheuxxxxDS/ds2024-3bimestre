@@ -7,3 +7,15 @@ Use o projeto da atividade integradora EtecShopAPI como base, você pode acessar
 o código desse projeto online, através do link:
 
 https://github.com/gallojunior/EtecShop-MongoDB/tree/master/EtecShopAPI
+
+A classe de dados deve se chamar Heroes e possuir a seguinte estrutura
+{
+    "_id": {"$oid":"66f1f3a4985feca6dae0c2fd"},
+    "nome": "Superman",
+    "time": "Liga da Justiça",
+    "idade": 33,
+    "genero": "Masculino",
+    "habilidades ":["Superforça", "Voo", "Visão de Calor", "Visão de Raio-X"],
+    "usaCapa": true,
+    "universo": "DC"
+}
